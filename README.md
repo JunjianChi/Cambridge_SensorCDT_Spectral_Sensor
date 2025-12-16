@@ -2,7 +2,7 @@
 
 ---
 
-In this work, we present a 3D-printed reproducible spectrophotometer system integrating an Arduino MCU with AS7343 spectral sensor. 12-channel raw measurements are pre-processed and used to train machine learning models for juice type and concentration classification. Based on the performance on an independent test set, the best two models achieve a test accuracy of 100% for juice type classification, and 82.35% for concentration classification.
+> In this work, we present a 3D-printed reproducible spectrophotometer system integrating an Arduino MCU with AS7343 spectral sensor. 12-channel raw measurements are pre-processed and used to train machine learning models for juice type and concentration classification. Based on the performance on an independent test set, the best two models achieve a test accuracy of 100% for juice type classification, and 82.35% for concentration classification.
 
 <p align="center">
   <img src="Document/pics/spectral_sensor_system.png" width="500">
